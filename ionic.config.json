@@ -1,0 +1,8 @@
+{
+  "name": "Visualiza",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "58f748d2"
+}
