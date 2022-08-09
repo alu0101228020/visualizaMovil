@@ -56,8 +56,8 @@ const App: React.FC = () => (
         </IonRouterOutlet>
         <IonTabBar slot="bottom" >
           <IonTabButton tab="dashboard" href="/dashboard" >
-            <IonIcon icon={statsChartOutline} />
-            <IonLabel>Dashboard</IonLabel>
+            <IonIcon color="secondary" icon={statsChartOutline} />
+            <IonLabel color="secondary">Dashboard</IonLabel>
           </IonTabButton>
         </IonTabBar>
       </IonTabs>
