@@ -215,61 +215,31 @@ const BajasLaborales = () => {
                 title: {
                     display: true,
                     text: 'Cantidad de accidentes (miles)',
-                    /*font: {
-                        size: 18,
-                        family: 'Serif'
-                    },*/
                     color: 'rgba(0, 0, 0, 1)',
                     padding: 3
                 },
                 ticks: {
                     color: 'rgba(0, 0, 0, 1)',
-                    /*font: {
-                        size: 15,
-                        family: 'Serif'
-                    },*/
                 },
             },
             xAxes: {
                 title: {
                     display: true,
                     text: 'Fecha de accidentes (Anual)',
-                    /*font: {
-                        size: 18,
-                        family: 'Serif'
-                    },*/
                     color: 'rgba(0, 0, 0, 1)',
-                    //padding: 15
                 },
                 ticks: {
                     color: 'rgba(0, 0, 0, 1)',
-                    /*font: {
-                        size: 15,
-                        family: 'Serif'
-                    },*/
                 },
             },
         }, 
         plugins: {
             legend: {
                 labels: {
-                    /*font: {
-                        size: 17,
-                        family: 'Serif',
-                    },*/
                     color: 'rgba(0, 0, 0, 1)',
                 },
             },
             tooltip: {
-                /*titleFont: {
-                    size: 14,
-                    family: 'Serif',
-                },
-                titleMarginBottom: 5,
-                bodyFont: {
-                    size: 14,
-                    family: 'Serif',
-                },*/
                 caretSize: 6,
                 cornerRadius: 10,
             }
