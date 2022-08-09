@@ -302,7 +302,7 @@ const BajasLaborales = () => {
         <IonPage>
             <IonHeader>
                 <IonToolbar color="primary">
-                    <IonTitle>V I S U A L I Z A</IonTitle>
+                    <IonTitle style={{ 'font-family': "Gill Sans Extrabold", 'font-weight': 'bold'}}>V I S U A L I Z A</IonTitle>
                 </IonToolbar>
             </IonHeader>
             <IonContent class="ion-padding">
