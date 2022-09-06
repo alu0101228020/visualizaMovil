@@ -1,1 +1,1 @@
-# Código fuente del Frontend Móvil de Visualiza
+# Código fuente del frontend Móvil de la aplicación Visualiza
